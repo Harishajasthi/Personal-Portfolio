@@ -1,7 +1,7 @@
 
   document.getElementById("downloadButton").addEventListener("click", function () {
     // Replace "resume.pdf" with the exact name of your resume file.
-    var resumeFile = "resume.pdf";
+    var resumeFile = "Jasthi Harisha.pdf";
 
     // Create an "a" element (link) and set its attributes.
     var downloadLink = document.createElement("a");
