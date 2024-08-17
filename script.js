@@ -18,7 +18,7 @@
 //     window.location.href = "https://github.com/aditya383-dumbu","_blank"; // Replace with your GitHub URL
 //   });
   function openGitHubInNewWindow() {
-    window.open("https://github.com/aditya383-dumbu", "_blank"); // Replace with your GitHub URL
+    window.open("https://github.com/Harishajasthi", "_blank"); // Replace with your GitHub URL
   }
 
   // Add a click event listener to the button
